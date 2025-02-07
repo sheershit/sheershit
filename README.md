@@ -2,7 +2,7 @@
 
 <!--
 **sheershit/sheershit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+[![Sheersh Bansal profile views](https://u8views.com/api/v1/github/profiles/141630396/views/day-week-month-total-count.svg)](https://u8views.com/github/sheershit)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
