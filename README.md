@@ -11,13 +11,13 @@
 ## ABOUT ME !! 
 
 ```yaml
-  name: "Sheersh Bansal"
+  Name: "Sheersh Bansal"
   Education:
-    degree: "BTech in Information Technology"
+    Degree: "BTech in Information Technology"
     university: "Manipal University Jaipur"
    
   Past_Experiences:
-    - achievement: 5 Star C++ Hackerank
+    - Achievement: 5 Star C++ Hackerank
 
   Currently_learning:
   - Data Analyst
