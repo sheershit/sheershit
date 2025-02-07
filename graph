@@ -1,0 +1,13 @@
+import pandas as pd
+import matplotlib.pyplot as plt
+
+# Load data
+data = pd.read_csv('data/data.csv')
+
+# Generate graph
+plt.figure(figsize=(10, 6))
+plt.plot(data['date'], data['value'])
+plt.xlabel('Date')
+plt.ylabel('Value')
+plt.title('Example Graph')
+plt.savefig('graphs/example_graph.png')
