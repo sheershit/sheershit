@@ -1,25 +1,15 @@
 
 
-
-
-
-
-
 <div align="center">
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHBocTIzN3NnNjlhNWprNnQwc2tmd2UwcmR0ZjNlbDh4eGtkd2MwMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.gif" alt="PHOTO" />
 
-
-<br>
+  <br>
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Sedan+SC&weight=500&duration=5000&pause=700&color=02F769&background=15151500&center=true&vCenter=true&random=false&width=435&lines=Hello!+I'm+Sheersh+Bansal;Aspiring+Data+Analyst;%26+a+AI/ML+enthusiast+" alt="Typing SVG"/></a><img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3lxZDAxaTJxOGhzMGZtazJ5YnRlNGp2OXA4bm9uNmluNXc3ZTJ0ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/QIKUNA9oGxeWGLbCFY/giphy.gif" alt="Exciting GIF" width="60"/>
-
-
-
+    <img src="https://readme-typing-svg.herokuapp.com?font=Sedan+SC&weight=500&duration=5000&pause=700&color=02F769&background=15151500&center=true&vCenter=true&random=false&width=435&lines=Hello!+I'm+Sheersh+Bansal;Aspiring+Data+Analyst;%26+a+AI/ML+enthusiast+" alt="Typing SVG"/></a>
 
  <br>
   <a href="https://avatars.githubusercontent.com/u/43103163?v=4">
-
 
 </div>
 
@@ -78,28 +68,8 @@
    <a href="https://git.io/typing-svg">
       <img src="https://readme-typing-svg.demolab.com?font=Sedan+SC&weight=500&size=30&pause=1000&color=F63024&background=6883FF00&center=true&vCe
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<div align="center">
+        
+  <div align="center">
    <a href="https://git.io/typing-svg">
       <img src="https://readme-typing-svg.demolab.com?font=Sedan+SC&weight=500&size=30&pause=1000&color=F63024&background=6883FF00&center=true&vCenter=true&random=false&width=435&lines=Thanks+For+Visiting+!" alt="Typing SVG" />
    </a>
