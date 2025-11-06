@@ -128,7 +128,7 @@ I'm particularly interested in applying my analytical skills to solve problems i
 I'm always open to connecting with fellow data enthusiasts, mentors, and potential collaborators. Feel free to reach out!
 
 <p align="left">
-<a href="https://www.linkedin.com/in/sheershbansal/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/sheershbansal/" /></a>
+<a href="https://www.linkedin.com/in/sheersh-bansal/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/sheershbansal/" /></a>
 <a href="https://www.geeksforgeeks.org/user/bansalshejq2i/" target="blank"><img align="center" src="https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c" alt="bansalshejq2i" /></a>
 <a href="httpsfor://www.codechef.com/users/sheershbansal" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="sheershbansal" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/profile/bansalsheersh991" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="bansalsheersh991" height="30" width="40" /></a>
