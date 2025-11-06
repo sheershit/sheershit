@@ -2,7 +2,7 @@
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHBocTIzN3NnNjlhNWprNnQwc2tmd2UwcmR0ZjNlbDh4eGtkd2MwMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.gif" alt="PHOTO" />
   <br>
   <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Sedan+SC&weight=500&duration=5000&pause=700&color=02F769&background=15151500&center=true&vCenter=true&random=false&width=435&lines=Hello!+I'm+Sheersh+Bansal;Aspiring+Data+Analyst;%26+a+AI/ML+enthusiast+" alt="Typing SVG"/></a>
+      <img src="https://readme-typing-svg.herokuapp.com?font=Sedan+SC&weight=500&duration=5000&pause=700&color=02F769&background=15151500&center=true&vCenter=true&random=false&width=435&lines=Hello!+I'm+Sheersh+Bansal;Aspiring+Data+Analyst" alt="Typing SVG"/></a>
  <br>
 </div>
 
@@ -12,50 +12,141 @@
 
 ---
 
-## 👋 About Me
-I'm a B.Tech in Information Technology student at **Manipal University Jaipur**, passionate about transforming raw data into actionable insights. 
+## 👋 About Me: Unlocking Insights from Data
 
-I'm diving deep into the world of data analysis and AI/ML, focusing on building a strong foundation in data processing, visualization, and predictive modeling. My goal is to leverage data to solve complex, real-world problems.
+I'm Sheersh Bansal, a B.Tech in Information Technology student at **Manipal University Jaipur** (Batch of 2026). I'm not just a student; I'm a data enthusiast on a mission to become a top-tier Data Analyst. For me, data isn't just a string of numbers—it's the language of modern business. I am passionate about the "detective work" of analysis: diving into complex datasets to uncover hidden patterns and translating them into clear, actionable insights that can drive strategy and solve real-world problems.
 
-- 🎓 Studying **B.Tech in Information Technology** (Batch of 2026).
-- 🌱 Currently mastering **Data Analysis** concepts and the **AI/ML pipeline**.
-- 💡 Actively looking for internship opportunities in Data Science and Analytics.
+<br>
+<div align="center">
+  <img src="https://media.giphy.com/media/l4pSWQp5xR2XQj6vS/giphy.gif" width="300" alt="Data Analysis GIF">
+</div>
+<br>
+
+- 🎓 My **Information Technology** degree provides me with a robust technical foundation in data structures, algorithms, and database management.
+- 💡 I am actively seeking an **Internship in Data Analytics or Business Intelligence** for Summer 2026. I am eager to apply my skills to a challenging environment where I can learn from experienced professionals and make a tangible impact.
 
 ---
 
-## 🛠️ My Data Analyst Toolkit
-Here are some of the technologies and tools I'm working with:
+## 🎯 My Value Proposition
 
+As an aspiring analyst, I am focused on delivering clear, tangible results. Here's what I bring to the table:
+
+* **Data-Driven Storyteller:** I don't just present numbers; I build compelling narratives and interactive dashboards (Power BI) that make complex data easy for anyone to understand.
+* **Technical & Meticulous:** I thrive on the technical side of data. I write clean, efficient SQL to query data and use tools like Power Query and Excel to meticulously clean and transform messy datasets into reliable sources of truth.
+* **Proactive & Curious:** I am driven by a "why" mindset. I'm not satisfied with just *what* the data says, but *why* it says it, and I'm always looking for the next question to ask.
+
+---
+
+## 🛠️ My Data Analyst Toolkit: Powering Informed Decisions
+
+My arsenal of tools is carefully selected for efficient data manipulation, insightful analysis, and clear communication.
+
+<br>
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2RraTNrcWRkYnRqcTRrbXF6czdjb2p5aHJkb3o1dmR0cDV4MjE2YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT39Dxr83Lq4J5qWwM/giphy.gif" width="300" alt="Toolkit GIF">
+</div>
+<br>
+
+### Core BI & Data Tools
 <p align="left">
+  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=black" alt="PowerBI" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel" />
   <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
-  <br>
-  <img src="https://img.shields.io/badge/SciKit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
-  <img src="https://img.shields.io/badge/Matplotlib-3776AB?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau" />
 </p>
 
+- **Power BI:**
+  - Building end-to-end BI solutions, from data modeling and transformation in **Power Query** to creating interactive, drill-through dashboards.
+  - Writing **DAX (Data Analysis Expressions)** to create complex custom measures and KPIs.
+- **Microsoft Excel:**
+  - Moving far beyond basic spreadsheets.
+  - Expert in **Pivot Tables**, **VLOOKUP/XLOOKUP**, conditional formatting, and data validation.
+  - Using **Power Query** within Excel for robust data cleaning and transformation.
+- **SQL (PostgreSQL):**
+  - My primary tool for data extraction and manipulation.
+  - Writing efficient, complex queries using **CTEs (Common Table Expressions)**, **Window Functions**, and various **JOINs** to aggregate and prepare data for analysis.
+- **Tableau (Learning):**
+  - Actively developing proficiency in Tableau to build a versatile visualization skillset across different platforms.
+
+### Foundational
+<p align="left">
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+</p>
+
+- **C++:**
+  - My strength in C++ reinforces my logical thinking and problem-solving abilities, which are crucial for debugging complex data issues and understanding algorithmic efficiency.
+
 ---
 
-## 🌐 CONNECT WITH ME HERE:
+## 🧠 Beyond the Tools: Analytical Competencies
+
+My skills aren't just technical. I cultivate the mindset of an effective analyst:
+
+-   **Problem-Solving:** I enjoy breaking down large, ambiguous problems into smaller, manageable questions that can be answered with data.
+-   **Attention to Detail:** I understand that the smallest error in a query or data model can lead to incorrect insights. I pride myself on being meticulous and thorough.
+-   **Business Acumen (Developing):** I focus on connecting data insights back to the "so what?"—how does this affect business goals, operations, or strategy?
+-   **Stakeholder Communication:** I am focused on presenting findings in a clear, concise, and non-technical way, ensuring everyone in the room can understand the story.
+-   **Intellectual Curiosity:** I have a "why" mindset. I'm not satisfied with just *what* the data says, but *why* it says it, and what the second and third-order effects might be.
+
+---
+
+## 📊 My Analytical Approach
+
+I believe that a structured process is key to delivering reliable insights. Here’s the five-step approach I follow:
+
+<br>
+<div align="center">
+  <img src="https://media.giphy.com/media/uCx0ca25Ag72fN2o2N/giphy.gif" width="350" alt="Data Workflow GIF">
+</div>
+<br>
+
+1.  **Define the Objective:** Start by asking "Why?" I collaborate with stakeholders to understand the core business question and what a successful outcome looks like.
+2.  **Acquire & Clean Data:** Get the data. This involves querying databases (SQL) and then meticulously cleaning and transforming it (Power Query, Excel) to ensure it's accurate, complete, and in a usable format.
+3.  **Explore & Analyze:** This is where the discovery happens. I use exploratory data analysis (EDA) and statistical methods to sift through the data, identify trends, find correlations, and uncover anomalies.
+4.  **Visualize & Report:** I choose the right visualization for the data (Power BI, Tableau, Excel) to make it understandable at a glance. The goal is to build a clear and interactive dashboard.
+5.  **Communicate & Deliver:** Data is only valuable if it inspires action. I focus on "data storytelling" to present my findings in a clear, concise, and compelling way that answers the original business question.
+
+---
+
+## 🚀 My Learning Roadmap
+
+I'm a firm believer in continuous learning. Here's what's next on my list to become an even more effective analyst:
+
+<br>
+<div align="center">
+  <img src="https://media.giphy.com/media/wxxK2rYmsoM1i/giphy.gif" width="300" alt="Learning GIF">
+</div>
+<br>
+
+-   **Mastering Python for Analysis:** Gaining deep proficiency in **Pandas** and **NumPy** for advanced data manipulation and **Matplotlib/Seaborn** for programmatic visualization.
+-   **Advanced SQL:** Focusing on query optimization, performance tuning, and more complex stored procedures.
+-   **Cloud Data Platforms:** Gaining foundational knowledge of cloud data warehousing and ETL/ELT tools (e.g., **Azure Synapse Analytics**, **Azure Data Factory**, or **Snowflake**).
+-   **Statistical Foundations:** Strengthening my understanding of A/B testing, hypothesis testing, and regression analysis to add more statistical rigor to my insights.
+
+---
+
+## 🌐 CONNECT WITH ME HERE: Let's Collaborate!
+
+I'm always open to connecting with fellow data enthusiasts, mentors, and potential collaborators. Feel free to reach out!
+
 <p align="left">
 <a href="https://www.linkedin.com/in/sheershbansal/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/sheershbansal/" /></a>
 <a href="https://www.geeksforgeeks.org/user/bansalshejq2i/" target="blank"><img align="center" src="https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c" alt="bansalshejq2i" /></a>
-<a href="https://www.codechef.com/users/sheershbansal" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="sheershbansal" height="30" width="40" /></a>
+<a href="httpsV_pbp_CREATE_IMAGE/users/sheershbansal" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="sheershbansal" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/profile/bansalsheersh991" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="bansalsheersh991" height="30" width="40" /></a>
 <br>
 </p>
 
-## Github stats:
+---
+
+## Github Stats: A Glimpse of My Contributions
+
+<br>
 <div align="center">
-  <img src="http://img.shields.io/badge/Code%20Time-1%2C200%20hrs%2045%20mins-blue" alt="Code Time" />
-  <img src="https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-24.7%20million%20lines%20of%20code-blue" alt="Lines of Code" />
-</div>
-<div align="center">
-  <br>
 <a href="https://github.com/sheershit/github-readme-stats"><img alt="sheershit Github Stats" src="https://github-readme-stats.vercel.app/api?username=sheershit&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
 <a href="https://github.com/sheershit/github-readme-stats"><img alt="sheershit Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sheershit&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
-<a href="https://github.com/sheershit">
+<a href="httpss://github.com/sheershit">
   <img alt="sheershit's activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=sheershit&theme=react-dark" />
 </a>
 </div>
