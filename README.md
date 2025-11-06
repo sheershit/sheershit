@@ -12,7 +12,7 @@
 
 ---
 
-## 👋 About Me: Unlocking Insights from Data
+## 👤 About Me: Unlocking Insights from Data
 
 I'm Sheersh Bansal, a B.Tech in Information Technology student at **Manipal University Jaipur** (Batch of 2026). I'm not just a student; I'm a data enthusiast on a mission to become a top-tier Data Analyst. For me, data isn't just a string of numbers—it's the language of modern business. I am passionate about the "detective work" of analysis: diving into complex datasets to uncover hidden patterns and translating them into clear, actionable insights that can drive strategy and solve real-world problems.
 
@@ -27,7 +27,7 @@ I'm Sheersh Bansal, a B.Tech in Information Technology student at **Manipal Univ
 
 ---
 
-## 🎯 My Value Proposition
+## 🚀 My Value Proposition
 
 As an aspiring analyst, I am focused on delivering clear, tangible results. Here's what I bring to the table:
 
@@ -37,7 +37,7 @@ As an aspiring analyst, I am focused on delivering clear, tangible results. Here
 
 ---
 
-## 🛠️ My Data Analyst Toolkit: Powering Informed Decisions
+## 🧰 My Data Analyst Toolkit: Powering Informed Decisions
 
 My arsenal of tools is carefully selected for efficient data manipulation, insightful analysis, and clear communication.
 
@@ -75,7 +75,7 @@ My arsenal of tools is carefully selected for efficient data manipulation, insig
 
 ---
 
-## 🧠 Beyond the Tools: Analytical Competencies
+## 🌟 Beyond the Tools: Analytical Competencies
 
 My skills aren't just technical. I cultivate the mindset of an effective analyst:
 
@@ -87,7 +87,7 @@ My skills aren't just technical. I cultivate the mindset of an effective analyst
 
 ---
 
-## 📊 My Analytical Approach
+## 📈 My Analytical Approach
 
 I believe that a structured process is key to delivering reliable insights. Here’s the five-step approach I follow:
 
@@ -105,7 +105,7 @@ I believe that a structured process is key to delivering reliable insights. Here
 
 ---
 
-## 💡 Analytical Areas of Interest
+## 🔍 Analytical Areas of Interest
 
 I'm particularly interested in applying my analytical skills to solve problems in these areas:
 
@@ -122,7 +122,7 @@ I'm particularly interested in applying my analytical skills to solve problems i
 
 ---
 
-## 🌐 CONNECT WITH ME HERE: Let's Collaborate!
+## 🤝 CONNECT WITH ME HERE: Let's Collaborate!
 
 I'm always open to connecting with fellow data enthusiasts, mentors, and potential collaborators. Feel free to reach out!
 
@@ -141,7 +141,7 @@ I'm always open to connecting with fellow data enthusiasts, mentors, and potenti
 <br>
 <div align="center">
 <a href="https://github.com/sheershit/github-readme-stats"><img alt="sheershit Github Stats" src="https://github-readme-stats.vercel.app/api?username=sheershit&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-<a href="https://github.com/sheershit/github-readme-stats"><img alt="sheershit Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sheershit&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+<a href="httpsNext, would you like me/github-readme-stats"><img alt="sheershit Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sheershit&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
 <a href="https://github.com/sheershit">
   <img alt="sheershit's activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=sheershit&theme=react-dark" />
@@ -156,5 +156,5 @@ I'm always open to connecting with fellow data enthusiasts, mentors, and potenti
       <img src="https://readme-typing-svg.demolab.com?font=Sedan+SC&weight=500&size=30&pause=1000&color=F63024&background=6883FF00&center=true&vCenter=true&random=false&width=435&lines=Thanks+For+Visiting+!" alt="Typing SVG" />
     </a>
     
-    <h3>Show some ❤️ by starring some of the repositories!</h3>
+    <h3>Show some ⭐ by starring some of the repositories!</h3>
 </div>
