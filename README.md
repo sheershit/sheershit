@@ -67,7 +67,7 @@ My arsenal of tools is carefully selected for efficient data manipulation, insig
 
 ### Foundational Skills
 <p align="left">
-G <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
 </p>
 
 - **C++:**
@@ -127,9 +127,9 @@ I'm particularly interested in applying my analytical skills to solve problems i
 I'm always open to connecting with fellow data enthusiasts, mentors, and potential collaborators. Feel free to reach out!
 
 <p align="left">
-<a href="httpsNext, would you like me.linkedin.com/in/sheersh-bansal/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/sheersh-bansal/" /></a>
+<a href="https://www.linkedin.com/in/sheershbansal/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/sheershbansal/" /></a>
 <a href="https://www.geeksforgeeks.org/user/bansalshejq2i/" target="blank"><img align="center" src="https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c" alt="bansalshejq2i" /></a>
-<a href="https://www.codechef.com/users/sheershbansal" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="sheershbansal" height="30" width="40" /></a>
+<a href="httpsfor://www.codechef.com/users/sheershbansal" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="sheershbansal" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/profile/bansalsheersh991" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="bansalsheersh991" height="30" width="40" /></a>
 <br>
 </p>
@@ -142,7 +142,7 @@ I'm always open to connecting with fellow data enthusiasts, mentors, and potenti
 <div align="center">
 <a href="https://github.com/sheershit/github-readme-stats"><img alt="sheershit Github Stats" src="https://github-readme-stats.vercel.app/api?username=sheershit&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
 <a href="https://github.com/sheershit/github-readme-stats"><img alt="sheershit Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sheershit&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <br/>
+G <br/>
 <a href="https://github.com/sheershit">
   <img alt="sheershit's activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=sheershit&theme=react-dark" />
 </a>
